@@ -112,8 +112,12 @@ set number
 " 突出显示
 set cursorline
 
+" 关闭鼠标
+set mouse=c
+
 " 启动鼠标
-set mouse=a
+" set mouse=a
+
 set selection=exclusive
 set selectmode=mouse,key
 
